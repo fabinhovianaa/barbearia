@@ -2,6 +2,12 @@ header {
  background: #bbbbbb;
 
 }
+nav {
+  position:absolute;
+  top:110px;
+  right:0;
+
+}
 
 nav li {
      display: inline;
